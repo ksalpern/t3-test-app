@@ -2,7 +2,7 @@
 
 ![result](./public/res.jpg)
 
-See result [here](https://t3-test-app-delta.vercel.app/)
+See result [here](https://t3-test-app-delta.vercel.app/) and how it works on my laptop [here](https://www.youtube.com/watch?v=vAzNwkgiC3k)
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
